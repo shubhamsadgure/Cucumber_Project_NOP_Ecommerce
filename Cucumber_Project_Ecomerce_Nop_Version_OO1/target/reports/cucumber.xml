@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="74.227" tests="4" skipped="0" failures="0" errors="0">
+<testcase classname="Customers" name="Add new customer" time="41.318">
+<system-out><![CDATA[
+Given User Launch Chrome Browser............................................passed
+When Users Open URl "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F".passed
+And Users Enters Email As "admin@yourstore.com" and Password as "admin".....passed
+And Click on the login button...............................................passed
+Then User can see the dashboard.............................................passed
+When User click on customer menu............................................passed
+And click on customer menu item.............................................passed
+And click on add new customer button........................................passed
+Then User can see add new customer page.....................................passed
+When User enter new customer info...........................................passed
+And Click on save button....................................................passed
+Then User can view confirmation message " The new customer has been added successfully.".passed
+And Close the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login" name="Successful Loging Withe Valid Credentials" time="18.736">
+<system-out><![CDATA[
+Given User Launch Chrome Browser............................................passed
+When Users Open URl "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F".passed
+And Users Enters Email As "admin@yourstore.com" and Password as "admin".....passed
+And Click on the login button...............................................passed
+And Page Title Should be "Dashboard / nopCommerce administration"...........passed
+When User click on the logout button........................................passed
+Then logout page title should be "Your store. Login"........................passed
+And Close the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login" name="Login data driven2 - Example #1.1" time="6.301">
+<system-out><![CDATA[
+Given User Launch Chrome Browser............................................passed
+When Users Open URl "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F".passed
+And Users Enters Email As "admin1@yourstore.com" and Password as "admin1"...passed
+And Click on the login button...............................................passed
+Then Failed login Page Title Should be "Login was unsuccessful. Please correct the errors and try again.".passed
+And Close the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login" name="Login data driven2 - Example #1.2" time="7.717">
+<system-out><![CDATA[
+Given User Launch Chrome Browser............................................passed
+When Users Open URl "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F".passed
+And Users Enters Email As "admin2@yourstore.com" and Password as "admin2"...passed
+And Click on the login button...............................................passed
+Then Failed login Page Title Should be "Login was unsuccessful. Please correct the errors and try again.".passed
+And Close the browser.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

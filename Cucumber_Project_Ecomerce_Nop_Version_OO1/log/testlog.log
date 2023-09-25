@@ -1,0 +1,1427 @@
+2023-09-20 20:46:23,823 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-20 20:46:23,847 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-20 20:46:27,218 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-20 20:46:27,351 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-20 20:46:35,261 - NopEcomerce -INFO - *******Getting Title********
+2023-09-20 20:46:35,271 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-20 20:46:37,346 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-20 20:46:42,918 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-20 20:46:50,638 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-20 20:46:52,662 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-20 20:47:01,334 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-20 20:47:03,400 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-20 20:47:03,564 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-20 20:47:06,445 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-20 20:47:06,446 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-20 20:47:09,305 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-20 20:47:09,436 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-20 20:47:17,270 - NopEcomerce -INFO - *******Getting Title********
+2023-09-20 20:47:17,277 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-20 20:47:19,345 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-20 20:47:24,103 - NopEcomerce -INFO - *******Entering Cuctomer Menu*******
+2023-09-20 20:47:24,193 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-20 20:47:26,286 - NopEcomerce -INFO - *******Searchin email i table*******
+2023-09-20 20:47:26,353 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-20 20:47:29,228 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-20 20:47:29,229 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-20 20:47:33,541 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-20 20:47:33,681 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-20 20:47:40,505 - NopEcomerce -INFO - *******Getting Title********
+2023-09-20 20:47:40,511 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-20 20:47:42,567 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-20 20:47:47,883 - NopEcomerce -INFO - *******Entering First Name*******
+2023-09-20 20:47:47,992 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-20 20:47:50,058 - NopEcomerce -INFO - *******Searching name in table*******
+2023-09-20 20:47:50,104 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-20 20:47:52,925 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-20 20:47:52,926 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-20 20:47:55,314 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-20 20:47:55,445 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-20 20:48:01,168 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-20 20:48:03,182 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-20 20:48:08,184 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-20 20:48:08,185 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-20 20:48:11,045 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-20 20:48:11,046 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-20 20:48:13,719 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-20 20:48:13,847 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-20 20:48:20,012 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-20 20:48:22,032 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-20 20:48:26,816 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-20 20:48:26,816 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-20 20:48:29,766 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-20 20:48:29,767 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-20 20:48:31,879 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-20 20:48:32,004 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-20 20:48:32,541 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-20 20:48:32,541 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-20 20:48:35,385 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-20 20:48:35,385 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-20 20:48:39,223 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-20 20:48:39,356 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-20 20:48:39,826 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-20 20:48:39,827 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:00:48,597 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:00:48,623 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:00:51,587 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:00:51,705 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:00:57,574 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:00:59,594 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 18:01:04,211 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 18:01:04,213 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:01:10,041 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:01:10,045 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:01:12,403 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:01:12,532 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:01:17,928 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:01:19,943 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 18:01:24,468 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 18:01:24,468 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:01:29,713 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:01:29,715 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:01:32,173 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:01:32,295 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:01:32,812 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:01:32,812 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:01:37,864 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:01:37,866 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:01:40,176 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:01:40,297 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:01:40,798 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:01:40,798 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:04:20,075 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:04:20,099 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:04:23,071 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:04:23,185 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:04:30,824 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:04:30,850 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:04:33,117 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 18:04:36,966 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-21 18:04:41,307 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-21 18:04:43,330 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-21 18:04:53,129 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:04:53,137 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:04:55,876 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:05:09,593 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:05:09,595 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:05:12,771 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:05:12,922 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:05:14,455 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:05:14,457 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:10:34,160 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:10:34,179 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:10:37,270 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:10:37,393 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:10:41,708 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:10:41,729 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:10:43,981 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 18:10:47,271 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-21 18:10:51,016 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-21 18:10:53,033 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-21 18:11:05,416 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-21 18:11:06,619 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-21 18:11:06,930 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:11:12,686 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:11:12,693 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:11:14,467 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:11:14,608 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:11:17,431 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:11:17,438 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:11:19,687 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 18:11:22,739 - NopEcomerce -INFO - *******Entering Cuctomer Menu*******
+2023-09-21 18:11:22,835 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-21 18:11:25,599 - NopEcomerce -INFO - *******Searchin email i table*******
+2023-09-21 18:11:25,717 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:11:31,012 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:11:31,013 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:11:33,547 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:11:33,653 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:11:37,765 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:11:37,770 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:11:40,015 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 18:11:43,447 - NopEcomerce -INFO - *******Entering First Name*******
+2023-09-21 18:11:43,576 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-21 18:11:46,349 - NopEcomerce -INFO - *******Searching name in table*******
+2023-09-21 18:11:46,472 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:11:51,718 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:11:51,719 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:11:54,133 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:11:54,245 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:11:58,140 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:12:00,152 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 18:12:02,919 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:12:02,921 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:12:05,232 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:12:05,345 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:12:08,492 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:12:10,503 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 18:12:15,026 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 18:12:15,027 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:12:20,211 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:12:20,213 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:12:22,790 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:12:22,908 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:12:23,419 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:12:23,420 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:12:28,800 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:12:28,801 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:12:31,093 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:12:31,222 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:12:31,816 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:12:31,817 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:15:08,618 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:15:08,644 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:15:10,947 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:15:11,109 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:15:14,473 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:15:14,495 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:15:16,761 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 18:15:20,053 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-21 18:15:23,534 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-21 18:15:25,547 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-21 18:15:38,016 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-21 18:15:39,019 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-21 18:15:39,368 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:15:45,107 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:15:45,113 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:15:47,452 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:15:47,579 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:15:50,145 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:15:50,153 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:15:52,407 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 18:15:55,619 - NopEcomerce -INFO - *******Entering Cuctomer Menu*******
+2023-09-21 18:15:55,748 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-21 18:15:58,512 - NopEcomerce -INFO - *******Searchin email i table*******
+2023-09-21 18:15:58,661 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:16:03,977 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:16:03,978 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:16:06,131 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:16:06,248 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:16:09,692 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:16:09,698 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:16:11,951 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 18:16:15,031 - NopEcomerce -INFO - *******Entering First Name*******
+2023-09-21 18:16:15,170 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-21 18:16:17,915 - NopEcomerce -INFO - *******Searching name in table*******
+2023-09-21 18:16:18,059 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:16:23,462 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:16:23,463 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:16:25,943 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:16:26,034 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:16:31,153 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:16:33,168 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 18:16:37,653 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 18:16:37,653 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:16:42,870 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:16:42,871 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:16:44,797 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:16:44,905 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:16:47,817 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:16:49,836 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 18:16:54,324 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 18:16:54,325 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:16:59,684 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:16:59,685 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:17:02,800 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:17:02,942 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:17:03,499 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:17:03,499 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:17:09,057 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:17:09,058 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:17:11,353 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:17:11,484 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:17:12,011 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:17:12,012 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:43:50,597 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:43:50,625 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:43:54,313 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:43:54,549 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:44:10,515 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:44:10,548 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:44:15,720 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:44:15,728 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:44:19,550 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:44:19,948 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:44:30,698 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:44:30,728 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:44:35,699 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:44:35,702 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:44:38,911 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:44:39,184 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:44:44,311 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:44:44,337 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:44:49,414 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:44:49,417 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:44:51,934 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:44:52,282 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:45:05,493 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:45:07,537 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 18:45:12,254 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 18:45:12,255 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:45:17,541 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:45:17,545 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:45:19,997 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:45:20,255 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:45:30,074 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:45:32,085 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 18:45:38,640 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 18:45:38,642 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:45:44,045 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:45:44,050 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:45:47,975 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:45:48,375 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:45:49,442 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:45:49,443 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:45:54,517 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:45:54,519 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:45:57,745 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:45:58,095 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:45:58,896 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:45:58,896 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:46:38,646 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:46:38,669 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:46:41,068 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:46:41,353 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:46:44,870 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:46:44,908 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:46:49,729 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:46:49,737 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:46:55,067 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:46:55,070 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:47:00,705 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:47:00,706 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:47:06,143 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:47:06,146 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:47:11,422 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:47:11,424 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:47:16,941 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:47:16,944 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:47:59,339 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:47:59,364 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:48:03,298 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:48:03,630 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:48:10,268 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:48:10,303 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:48:15,431 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:48:15,438 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:48:21,090 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:48:21,092 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:48:26,525 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:48:26,527 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:48:31,511 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:48:31,513 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:48:36,829 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:48:36,832 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:48:42,682 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:48:42,684 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:51:56,373 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:51:56,400 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:51:58,927 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:51:59,174 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:52:05,500 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:52:05,534 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:52:07,640 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 18:52:11,966 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-21 18:52:16,437 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-21 18:52:18,454 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-21 18:52:30,611 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-21 18:52:32,975 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-21 18:52:33,089 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:52:36,349 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:52:36,357 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:52:38,800 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:52:39,029 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:52:42,672 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:52:42,685 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:52:44,755 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 18:52:49,479 - NopEcomerce -INFO - *******Entering Cuctomer Menu*******
+2023-09-21 18:52:49,604 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-21 18:52:51,816 - NopEcomerce -INFO - *******Searchin email i table*******
+2023-09-21 18:52:51,869 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:52:54,849 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:52:54,851 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:52:57,310 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:52:57,516 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:53:01,957 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:53:01,974 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:53:04,074 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 18:53:07,936 - NopEcomerce -INFO - *******Entering First Name*******
+2023-09-21 18:53:08,138 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-21 18:53:10,262 - NopEcomerce -INFO - *******Searching name in table*******
+2023-09-21 18:53:10,351 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:53:13,407 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:53:13,409 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:53:16,220 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:53:16,417 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:53:22,201 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:53:24,223 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 18:53:29,810 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 18:53:29,811 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:53:32,726 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:53:32,728 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:53:36,352 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:53:36,584 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:53:44,993 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:53:47,015 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 18:53:51,917 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 18:53:51,918 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:53:54,930 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:53:54,931 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:53:59,041 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:53:59,254 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:54:00,398 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:54:00,398 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:54:03,273 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:54:03,275 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:54:05,722 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:54:05,958 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:54:06,446 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:54:06,447 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:56:21,740 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:56:21,761 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:56:24,281 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:56:24,507 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:56:29,624 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 18:56:29,650 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 18:56:39,704 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:56:39,708 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:58:59,499 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:58:59,525 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:59:02,604 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:59:02,879 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:59:05,807 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:59:07,832 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 18:59:12,774 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 18:59:12,776 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:59:17,836 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:59:17,839 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:59:20,112 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:59:20,370 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:59:24,689 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:59:26,700 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 18:59:32,012 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 18:59:32,013 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:59:36,793 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:59:36,795 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:59:38,170 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:59:38,381 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:59:38,919 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:59:38,920 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 18:59:44,062 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 18:59:44,065 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 18:59:46,393 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 18:59:46,642 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 18:59:48,160 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 18:59:48,160 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:00:03,644 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:00:03,665 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:00:06,070 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:00:06,357 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:00:12,707 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 19:00:14,726 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 19:00:20,546 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 19:00:20,548 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:00:25,909 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:00:25,911 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:00:28,199 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:00:28,434 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:00:32,795 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 19:00:34,808 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 19:00:39,811 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 19:00:39,812 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:00:44,706 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:00:44,708 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:00:47,313 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:00:47,519 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:00:48,567 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 19:00:48,567 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:00:53,419 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:00:53,422 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:00:55,548 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:00:55,747 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:00:56,793 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 19:00:56,794 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:01:18,485 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:01:18,509 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:01:20,421 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:01:20,640 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:01:24,611 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 19:01:26,636 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 19:01:31,517 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 19:01:31,518 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:01:36,831 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:01:36,834 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:01:39,434 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:01:39,668 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:01:44,076 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 19:01:46,098 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 19:01:51,500 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 19:01:51,501 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:01:56,473 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:01:56,474 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:01:57,818 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:01:58,041 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:01:58,713 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 19:01:58,713 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:02:03,683 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:02:03,688 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:02:06,094 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:02:06,317 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:02:07,995 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 19:02:07,995 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:05:38,422 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:05:38,444 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:05:42,649 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:05:42,797 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:05:50,506 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 19:05:50,527 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 19:05:55,097 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:05:55,102 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:06:01,454 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:06:01,456 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:06:04,654 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:07:34,527 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:07:34,547 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:07:36,945 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:07:37,087 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:07:41,907 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 19:07:41,929 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 19:07:46,483 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:07:46,487 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:08:36,585 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:08:36,606 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:08:38,877 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:08:39,030 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:08:46,241 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 19:08:46,266 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 19:08:48,341 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 19:08:52,051 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-21 19:08:56,304 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-21 19:08:58,319 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-21 19:09:10,021 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-21 19:09:11,630 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-21 19:09:11,704 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:09:16,413 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:09:16,416 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:09:19,623 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:09:19,772 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:09:26,111 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 19:09:26,131 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 19:09:28,209 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 19:09:33,432 - NopEcomerce -INFO - *******Entering Cuctomer Menu*******
+2023-09-21 19:09:33,536 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-21 19:09:35,616 - NopEcomerce -INFO - *******Searchin email i table*******
+2023-09-21 19:09:35,668 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:09:40,379 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:09:40,380 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:09:44,467 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:09:44,628 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:09:52,531 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 19:09:52,549 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 19:09:54,614 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 19:10:00,516 - NopEcomerce -INFO - *******Entering First Name*******
+2023-09-21 19:10:00,665 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-21 19:10:02,719 - NopEcomerce -INFO - *******Searching name in table*******
+2023-09-21 19:10:02,779 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:10:58,561 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:10:58,581 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:11:01,282 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:11:01,441 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:11:04,850 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 19:11:04,870 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 19:11:06,948 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 19:11:10,391 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-21 19:11:14,066 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-21 19:11:16,093 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-21 19:11:27,804 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-21 19:11:29,191 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-21 19:11:29,266 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:11:34,042 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:11:34,045 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:11:36,959 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:11:37,116 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:11:42,913 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 19:11:42,930 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 19:11:45,002 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 19:11:48,617 - NopEcomerce -INFO - *******Entering Cuctomer Menu*******
+2023-09-21 19:11:48,707 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-21 19:11:50,807 - NopEcomerce -INFO - *******Searchin email i table*******
+2023-09-21 19:11:50,847 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:11:55,599 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:11:55,599 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:11:57,675 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:11:57,829 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:12:02,342 - NopEcomerce -INFO - *******Getting Title********
+2023-09-21 19:12:02,360 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-21 19:12:04,435 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-21 19:12:07,766 - NopEcomerce -INFO - *******Entering First Name*******
+2023-09-21 19:12:07,907 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-21 19:12:09,962 - NopEcomerce -INFO - *******Searching name in table*******
+2023-09-21 19:12:10,041 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:12:14,655 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:12:14,656 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:12:17,457 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:12:17,609 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:12:21,899 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 19:12:23,913 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 19:12:28,436 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 19:12:28,437 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:12:33,155 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:12:33,156 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:12:34,736 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:12:34,892 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:12:38,967 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 19:12:40,975 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-21 19:12:45,510 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-21 19:12:45,510 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:12:50,179 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:12:50,181 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:12:52,904 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:12:53,052 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:12:53,773 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 19:12:53,774 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-21 19:12:58,442 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-21 19:12:58,444 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-21 19:13:01,221 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-21 19:13:01,373 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-21 19:13:02,013 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-21 19:13:02,013 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 17:22:21,689 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:22:21,733 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:22:25,012 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:22:25,015 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:22:28,102 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:22:28,104 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:22:31,307 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:22:31,312 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:22:34,727 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:22:34,730 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:36:21,830 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:36:21,865 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:36:24,470 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 17:36:24,706 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 17:36:27,631 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 17:36:27,667 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 17:36:29,792 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 17:36:33,538 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-22 17:36:37,337 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-22 17:36:39,363 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-22 17:36:51,925 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-22 17:36:53,546 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-22 17:36:53,654 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 17:36:56,810 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:36:56,817 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:37:02,398 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 17:37:02,640 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 17:37:06,954 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 17:37:06,963 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 17:37:09,084 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 17:37:12,909 - NopEcomerce -INFO - *******Entering Cuctomer Menu*******
+2023-09-22 17:37:13,135 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-22 17:37:15,291 - NopEcomerce -INFO - *******Searchin email i table*******
+2023-09-22 17:37:15,388 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 17:37:18,908 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:37:18,911 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:37:22,164 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 17:37:22,374 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 17:37:26,671 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 17:37:26,692 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 17:37:28,809 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 17:37:33,300 - NopEcomerce -INFO - *******Entering First Name*******
+2023-09-22 17:37:33,626 - NopEcomerce -INFO - *******Clicking on search Button*******
+2023-09-22 17:37:35,778 - NopEcomerce -INFO - *******Searching name in table*******
+2023-09-22 17:37:35,864 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 17:37:39,285 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:37:39,286 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:37:41,635 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 17:37:41,928 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 17:37:46,919 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 17:37:48,939 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-22 17:37:53,802 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-22 17:37:53,804 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 17:37:57,302 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:37:57,304 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:37:59,671 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 17:37:59,970 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 17:38:03,012 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 17:38:05,031 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-22 17:38:10,950 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-22 17:38:10,952 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 17:38:14,454 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:38:14,457 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:38:16,756 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 17:38:17,071 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 17:38:17,575 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 17:38:17,576 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 17:38:20,776 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:38:20,779 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:38:22,703 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 17:38:23,037 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 17:38:24,207 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 17:38:24,208 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 17:55:07,183 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:55:07,209 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:55:10,957 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 17:55:11,227 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 17:55:14,764 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 17:55:14,797 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 17:55:16,903 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 17:55:20,381 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-22 17:55:23,945 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-22 17:55:25,975 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-22 17:55:38,233 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-22 17:55:40,150 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-22 17:55:40,276 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 17:55:43,431 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:55:43,439 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:55:45,500 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 17:55:45,729 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 17:55:49,361 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 17:55:51,383 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-22 17:55:56,813 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-22 17:55:56,815 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 17:59:42,850 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 17:59:42,875 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 17:59:45,323 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 17:59:45,597 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 17:59:48,328 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 17:59:48,361 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 17:59:50,456 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 17:59:54,105 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-22 17:59:57,467 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-22 17:59:59,488 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-22 18:00:11,722 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-22 18:00:13,827 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-22 18:00:13,972 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 18:00:17,108 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 18:00:17,116 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 18:00:19,585 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 18:00:19,868 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 18:00:26,569 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 18:00:28,588 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-22 18:00:33,815 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-22 18:00:33,817 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 18:11:24,183 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 18:11:24,207 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 18:11:27,124 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 18:11:27,401 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 18:11:27,909 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 18:11:27,911 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 18:11:30,879 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 18:11:30,883 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 18:11:33,230 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 18:11:33,496 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 18:11:34,046 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 18:11:34,047 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 18:19:03,542 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 18:19:03,566 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 18:19:07,288 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 18:19:07,528 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 18:19:14,358 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 18:19:14,383 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 18:19:16,488 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 18:19:20,678 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-22 18:19:25,462 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-22 18:19:27,489 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-22 18:19:39,788 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-22 18:19:42,946 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-22 18:19:43,085 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 18:19:46,355 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 18:19:46,361 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 18:19:48,634 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 18:19:48,903 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 18:19:53,377 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 18:19:55,392 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-22 18:20:00,157 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-22 18:20:00,158 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 18:20:03,406 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 18:20:03,409 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 18:20:06,066 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 18:20:06,308 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 18:20:06,801 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 18:20:06,802 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 18:20:09,876 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 18:20:09,879 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 18:20:12,066 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 18:20:12,340 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 18:20:12,918 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 18:20:12,919 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:29:37,264 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:29:37,288 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:29:41,286 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:29:41,440 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:29:47,835 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 20:29:47,849 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 20:29:49,912 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 20:29:54,426 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-22 20:30:00,247 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-22 20:30:02,266 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-22 20:30:13,929 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-22 20:30:16,021 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-22 20:30:16,122 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:30:19,559 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:30:19,561 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:30:22,431 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:30:22,575 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:30:29,760 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 20:30:31,769 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-22 20:30:37,161 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-22 20:30:37,163 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:30:40,598 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:30:40,599 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:30:43,929 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:30:44,068 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:30:44,573 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 20:30:44,574 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:30:47,931 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:30:47,933 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:30:50,319 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:30:50,460 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:30:50,915 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 20:30:50,915 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:40:18,915 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:40:18,933 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:40:24,426 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:40:24,585 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:40:37,304 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 20:40:37,315 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 20:40:39,382 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 20:40:46,304 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-22 20:40:56,738 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-22 20:40:58,755 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-22 20:41:10,398 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-22 20:41:12,104 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-22 20:41:12,182 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:41:15,626 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:41:15,629 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:41:21,006 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:41:21,155 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:41:42,486 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 20:41:44,507 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-22 20:41:49,551 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-22 20:41:49,552 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:41:52,854 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:41:52,855 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:41:55,547 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:41:55,693 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:41:56,366 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 20:41:56,367 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:41:59,686 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:41:59,687 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:42:03,376 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:42:03,523 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:42:04,015 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 20:42:04,015 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:56:37,047 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:56:37,065 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:56:40,658 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:56:40,800 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:56:49,101 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 20:56:49,110 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 20:56:51,159 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 20:56:58,193 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-22 20:57:07,218 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-22 20:57:09,235 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-22 20:57:20,995 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-22 20:57:22,724 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-22 20:57:22,886 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:57:26,308 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:57:26,312 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:57:30,785 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:57:30,786 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:57:33,355 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:57:33,514 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:57:34,004 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 20:57:34,005 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:57:37,405 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:57:37,407 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:57:40,189 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:57:40,325 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:57:40,827 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 20:57:40,827 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:58:17,599 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:58:17,619 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:58:20,368 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:58:20,524 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:58:26,750 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 20:58:26,766 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 20:58:28,852 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 20:58:33,265 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-22 20:58:37,644 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-22 20:58:39,662 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-22 20:58:51,317 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-22 20:58:54,555 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-22 20:58:54,635 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:58:58,040 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:58:58,045 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:59:04,666 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:59:04,806 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:59:30,145 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 20:59:32,154 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-22 20:59:39,125 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-22 20:59:39,127 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:59:42,585 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:59:42,587 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:59:46,914 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:59:47,055 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:59:48,198 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 20:59:48,199 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 20:59:51,563 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 20:59:51,565 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 20:59:56,108 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 20:59:56,243 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 20:59:58,260 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 20:59:58,261 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:03:46,432 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:03:46,456 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:03:50,710 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:03:50,863 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:04:00,495 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 21:04:00,509 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 21:04:02,586 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 21:04:08,065 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-22 21:04:13,455 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-22 21:04:15,470 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-22 21:04:27,064 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-22 21:04:29,425 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-22 21:04:29,512 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:04:32,928 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:04:32,932 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:04:35,457 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:04:35,607 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:04:40,645 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 21:04:42,660 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-22 21:04:47,633 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-22 21:04:47,635 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:04:50,943 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:04:50,944 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:04:54,650 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:04:54,794 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:04:55,293 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 21:04:55,294 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:04:58,613 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:04:58,614 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:05:00,525 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:05:00,669 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:05:01,183 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 21:05:01,183 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:13:31,036 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:13:31,060 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:13:36,316 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:13:36,466 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:13:46,163 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 21:13:46,172 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 21:13:48,268 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 21:13:54,511 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-22 21:14:00,349 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-22 21:14:02,369 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-22 21:14:13,969 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-22 21:14:16,339 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-22 21:14:16,417 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:14:19,784 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:14:19,786 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:14:23,121 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:14:23,268 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:14:34,830 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 21:14:36,851 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-22 21:14:41,949 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-22 21:14:41,951 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:14:45,261 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:14:45,262 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:14:48,902 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:14:49,047 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:14:49,546 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 21:14:49,546 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:14:52,902 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:14:52,903 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:14:56,369 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:14:56,509 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:14:57,731 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 21:14:57,733 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:15:59,063 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:15:59,090 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:16:03,790 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:16:03,936 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:16:13,594 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 21:16:13,604 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 21:16:15,684 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 21:16:22,128 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-22 21:16:29,738 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-22 21:16:31,752 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-22 21:16:43,374 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-22 21:16:45,258 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-22 21:16:45,348 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:16:48,705 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:16:48,708 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:16:52,486 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:16:52,634 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:17:03,185 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 21:17:05,202 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-22 21:17:10,393 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-22 21:17:10,394 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:17:13,787 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:17:13,789 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:17:17,305 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:17:17,449 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:17:17,908 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 21:17:17,909 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:17:21,255 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:17:21,257 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:17:24,702 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:17:24,848 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:17:25,322 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 21:17:25,322 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:20:43,830 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:20:43,851 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:20:49,438 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:20:49,589 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:21:02,102 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 21:21:02,113 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-22 21:21:04,189 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-22 21:21:10,243 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-22 21:21:17,090 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-22 21:21:19,119 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-22 21:21:31,266 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-22 21:21:33,581 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-22 21:21:33,693 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:21:37,253 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:21:37,260 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:21:40,235 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:21:40,443 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:21:47,828 - NopEcomerce -INFO - *******Getting Title********
+2023-09-22 21:21:49,848 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-22 21:21:54,746 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-22 21:21:54,748 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:21:58,362 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:21:58,364 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:22:02,098 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:22:02,363 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:22:02,867 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 21:22:02,869 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-22 21:22:06,304 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-22 21:22:06,308 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-22 21:22:08,912 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-22 21:22:09,144 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-22 21:22:09,636 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-22 21:22:09,637 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 16:58:44,338 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 16:58:44,364 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 16:58:47,523 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 16:58:47,965 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 16:58:52,044 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 16:58:52,073 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-24 16:58:54,190 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-24 16:59:06,470 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-24 16:59:19,919 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-24 16:59:21,937 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-24 16:59:34,676 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-24 16:59:36,816 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-24 16:59:36,995 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 16:59:40,645 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 16:59:40,653 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 16:59:42,859 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 16:59:43,294 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 16:59:47,990 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 16:59:50,018 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-24 16:59:55,082 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-24 16:59:55,084 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 16:59:58,660 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 16:59:58,662 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:00:02,198 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:00:02,695 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:00:03,372 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:00:03,374 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:00:06,874 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:00:06,876 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:00:09,256 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:00:09,762 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:00:10,539 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:00:10,540 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:00:37,797 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:00:37,828 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:00:40,706 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:00:41,079 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:00:47,182 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:00:47,236 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-24 17:00:49,373 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-24 17:00:54,336 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-24 17:00:59,669 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-24 17:01:01,692 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-24 17:01:14,476 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-24 17:01:17,093 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-24 17:01:17,262 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:01:21,198 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:01:21,204 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:01:24,857 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:01:25,267 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:01:32,013 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:01:34,046 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-24 17:01:39,645 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-24 17:01:39,646 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:01:43,303 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:01:43,307 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:01:46,409 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:01:46,709 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:01:47,323 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:01:47,324 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:01:51,287 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:01:51,290 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:01:54,198 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:01:54,562 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:01:55,144 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:01:55,146 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:06:33,815 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:06:33,841 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:06:37,635 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:06:37,970 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:06:44,785 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:06:44,816 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-24 17:06:46,957 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-24 17:06:51,887 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-24 17:06:56,661 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-24 17:06:58,684 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-24 17:07:11,238 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-24 17:07:13,824 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-24 17:07:14,042 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:07:17,639 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:07:17,645 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:07:21,071 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:07:21,380 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:07:30,714 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:07:32,748 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-24 17:07:38,178 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-24 17:07:38,180 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:07:41,764 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:07:41,767 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:07:45,903 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:07:46,165 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:07:46,633 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:07:46,634 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:07:50,110 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:07:50,111 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:07:56,223 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:07:56,550 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:07:58,022 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:07:58,022 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:08:57,702 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:08:57,724 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:09:01,452 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:09:01,853 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:09:16,178 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:09:16,207 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-24 17:09:18,341 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-24 17:09:23,292 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-24 17:09:28,330 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-24 17:09:30,360 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-24 17:09:42,927 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-24 17:09:44,919 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-24 17:09:45,134 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:09:48,903 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:09:48,906 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:09:52,153 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:09:52,512 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:10:00,053 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:10:00,055 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:10:02,800 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:10:03,256 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:10:03,855 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:10:03,856 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:10:07,598 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:10:07,600 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:10:10,652 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:10:10,981 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:10:11,519 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:10:11,521 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:10:51,473 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:10:51,502 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:10:56,113 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:10:56,391 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:11:12,094 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:11:12,123 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-24 17:11:14,254 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-24 17:11:25,801 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-24 17:11:42,188 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-24 17:11:44,221 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-24 17:11:56,937 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-24 17:12:01,552 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-24 17:12:01,709 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:12:05,238 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:12:05,246 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:12:10,610 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:12:10,979 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:12:20,684 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:12:22,698 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-24 17:12:28,624 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-24 17:12:28,626 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:12:32,244 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:12:32,247 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:12:35,346 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:12:35,855 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:12:36,641 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:12:36,642 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:12:40,182 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:12:40,184 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:12:46,660 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:12:47,101 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:12:49,182 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:12:49,184 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:23:40,927 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:23:40,953 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:23:44,761 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:23:45,093 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:23:50,818 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:23:50,853 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-24 17:23:52,975 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-24 17:23:58,114 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-24 17:24:02,933 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-24 17:24:04,958 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-24 17:24:17,597 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-24 17:24:24,764 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-24 17:24:24,918 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:24:28,484 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:24:28,491 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:24:31,172 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:24:31,504 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:24:38,665 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:24:40,685 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-24 17:24:43,302 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:24:43,305 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:24:45,344 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:24:45,687 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:24:46,216 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:24:46,216 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:24:49,739 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:24:49,742 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:24:51,893 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:24:52,201 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:24:52,721 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:24:52,722 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:25:45,913 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:25:45,940 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:25:49,270 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:25:49,635 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:25:54,169 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:25:54,188 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-24 17:25:56,322 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-24 17:26:00,352 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-24 17:26:04,499 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-24 17:26:06,528 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-24 17:26:19,131 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-24 17:26:21,789 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-24 17:26:21,918 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:26:25,419 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:26:25,427 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:26:27,777 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:26:28,079 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:26:31,383 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:26:33,395 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-24 17:26:38,328 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-24 17:26:38,330 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:26:41,804 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:26:41,809 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:26:44,411 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:26:44,695 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:26:45,976 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:26:45,977 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:26:49,401 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:26:49,404 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:26:54,289 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:26:54,803 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:26:55,608 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:26:55,609 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:31:13,768 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:31:13,803 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:31:17,018 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:31:17,407 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:31:21,944 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:31:21,975 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-24 17:31:24,117 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-24 17:31:28,897 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-24 17:31:33,568 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-24 17:31:35,597 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-24 17:31:48,238 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-24 17:31:50,192 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-24 17:31:50,322 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:31:53,957 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:31:53,965 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:31:56,355 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:31:56,719 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:32:01,032 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:32:03,054 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-24 17:32:05,172 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:32:05,176 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:32:07,361 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:32:07,656 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:32:08,274 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:32:08,275 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:32:11,712 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:32:11,716 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:32:13,255 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:32:13,751 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:32:14,347 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:32:14,348 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:32:44,381 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:32:44,410 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:33:00,378 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:33:00,792 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:33:07,054 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:33:07,083 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-24 17:33:09,208 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-24 17:33:15,090 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-24 17:33:23,196 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-24 17:33:25,221 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-24 17:33:37,909 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-24 17:33:40,659 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-24 17:33:40,883 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:33:44,562 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:33:44,569 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:33:47,263 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:33:47,534 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:33:52,988 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:33:55,011 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-24 17:34:00,396 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-24 17:34:00,399 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:34:04,626 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:34:04,629 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:34:06,946 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:34:07,232 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:34:07,824 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:34:07,825 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:34:11,272 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:34:11,275 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:34:14,066 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:34:14,482 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:34:14,979 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:34:14,980 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:36:47,183 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:36:47,209 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:36:51,380 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:36:51,724 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:36:56,224 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:36:56,258 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-24 17:36:58,390 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-24 17:37:02,616 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-24 17:37:07,892 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-24 17:37:09,921 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-24 17:37:22,392 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-24 17:37:24,628 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-24 17:37:24,822 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:37:28,405 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:37:28,411 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:37:32,669 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:37:33,026 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:37:38,347 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:37:40,369 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-24 17:37:45,343 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-24 17:37:45,345 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:37:48,917 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:37:48,920 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:37:51,228 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:37:51,585 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:37:52,181 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:37:52,183 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:37:55,676 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:37:55,679 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:37:58,258 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:37:58,609 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:38:01,298 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:38:01,300 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:38:30,781 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:38:30,812 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:38:33,633 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:38:34,039 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:38:38,633 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:38:38,664 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-24 17:38:40,802 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-24 17:38:45,854 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-24 17:38:50,650 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-24 17:38:52,675 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-24 17:39:05,375 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-24 17:39:07,178 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-24 17:39:07,303 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:39:11,562 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:39:11,569 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:39:14,856 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:39:15,200 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:39:19,961 - NopEcomerce -INFO - *******Getting Title********
+2023-09-24 17:39:21,984 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-24 17:39:27,462 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-24 17:39:27,464 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:39:31,082 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:39:31,087 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:39:33,499 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:39:33,694 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:39:34,327 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:39:34,329 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-24 17:39:37,901 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-24 17:39:37,906 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-24 17:39:40,220 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-24 17:39:40,572 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-24 17:39:41,196 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-24 17:39:41,197 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-25 15:16:50,010 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-25 15:16:50,031 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-25 15:16:53,898 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-25 15:16:54,051 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-25 15:17:03,643 - NopEcomerce -INFO - *******Getting Title********
+2023-09-25 15:17:03,659 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-25 15:17:05,741 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-25 15:17:10,384 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-25 15:17:14,870 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-25 15:17:16,890 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-25 15:17:28,458 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-25 15:17:30,507 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-25 15:17:30,687 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-25 15:17:33,509 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-25 15:17:33,512 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-25 15:17:36,221 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-25 15:17:36,362 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-25 15:17:41,393 - NopEcomerce -INFO - *******Getting Title********
+2023-09-25 15:17:43,414 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-25 15:17:48,920 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-25 15:17:48,922 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-25 15:17:53,509 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-25 15:17:53,510 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-25 15:17:56,460 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-25 15:17:56,620 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-25 15:17:58,041 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-25 15:17:58,042 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-25 15:18:01,441 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-25 15:18:01,443 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-25 15:18:04,159 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-25 15:18:04,297 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-25 15:18:05,736 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-25 15:18:05,736 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-25 15:23:05,165 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-25 15:23:05,182 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-25 15:23:08,722 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-25 15:23:08,900 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-25 15:23:14,664 - NopEcomerce -INFO - *******Getting Title********
+2023-09-25 15:23:14,685 - NopEcomerce -INFO - *******Clicking On Customer Main Menu********
+2023-09-25 15:23:16,760 - NopEcomerce -INFO - *******Clicking on Cutomer sub Menu********
+2023-09-25 15:23:21,414 - NopEcomerce -INFO - *******Clicking on Add Cuctomer Btn********
+2023-09-25 15:23:25,953 - NopEcomerce -INFO - *******User Can See Add Cuctomer Page********
+2023-09-25 15:23:27,971 - NopEcomerce -INFO - *******Adding Cuctomer Details********
+2023-09-25 15:23:39,549 - NopEcomerce -INFO - *******Clicking on save Button********
+2023-09-25 15:23:42,826 - NopEcomerce -INFO - *******User Can See The new customer has been added successfully*******
+2023-09-25 15:23:42,936 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-25 15:23:47,396 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-25 15:23:47,400 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-25 15:23:49,483 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-25 15:23:49,618 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-25 15:23:54,709 - NopEcomerce -INFO - *******Getting Title********
+2023-09-25 15:23:56,730 - NopEcomerce -INFO - *******Clicking on LogOut Button********
+2023-09-25 15:24:01,718 - NopEcomerce -INFO - *******Loggout Passed********
+2023-09-25 15:24:01,719 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-25 15:24:05,115 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-25 15:24:05,116 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-25 15:24:07,389 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-25 15:24:07,525 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-25 15:24:08,080 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-25 15:24:08,081 - NopEcomerce -INFO - *******Closing The Browser********
+2023-09-25 15:24:10,982 - NopEcomerce -INFO - *******Launching Browser********
+2023-09-25 15:24:10,983 - NopEcomerce -INFO - *******Opeaning URL********
+2023-09-25 15:24:13,966 - NopEcomerce -INFO - *******Providing Login Details********
+2023-09-25 15:24:14,122 - NopEcomerce -INFO - *******Clicking on Login Button********
+2023-09-25 15:24:15,746 - NopEcomerce -INFO - *******Loggin Failed********
+2023-09-25 15:24:15,747 - NopEcomerce -INFO - *******Closing The Browser********

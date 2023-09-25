@@ -1,0 +1,8 @@
+pageObjects\searchCustomerPage.class
+Demo\demo2.class
+pageObjects\loginPage.class
+stepDefinitions\BaseClass.class
+utilites\waitHealper.class
+stepDefinitions\Steps.class
+testRunner\testRunner.class
+pageObjects\addNewCustomerPage.class
